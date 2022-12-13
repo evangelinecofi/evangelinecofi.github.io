@@ -1,0 +1,92 @@
+{
+    "cards": [
+      {
+      "code": "TXTHK1A",
+      "group": "TXT",
+      "name": "Huening Kai",
+      "rarity": "1",
+      "version": "A",
+      "image": ""
+      },
+      {
+      "code": "TXTTH1A",
+      "group": "TXT",
+      "name": "Taehyun",
+      "rarity": "1",
+      "version": "A",
+      "image": ""
+      },
+      {
+      "code": "TXTBG1A",
+      "group": "TXT",
+      "name": "Beomgyu",
+      "rarity": "1",
+      "version": "A",
+      "image": ""
+      },
+      {
+      "code": "TXTSB1A",
+      "group": "TXT",
+      "name": "Soobin",
+      "rarity": "1",
+      "version": "A",
+      "image": ""
+      },
+      {
+      "code": "TXTYJ1A",
+      "group": "TXT",
+      "name": "Yeonjun",
+      "rarity": "1",
+      "version": "A",
+      "image": ""
+      },
+      {
+      "code": "LSGR3A",
+      "group": "LE SSERAFIM",
+      "name": "Garam",
+      "rarity": "3",
+      "version": "A",
+      "image": ""
+      },
+      {
+      "code": "LSEC3A",
+      "group": "LE SSERAFIM",
+      "name": "Eunchae",
+      "rarity": "3",
+      "version": "A",
+      "image": ""
+      },
+      {
+      "code": "LSKZH3A",
+      "group": "LE SSERAFIM",
+      "name": "Kazuha",
+      "rarity": "3",
+      "version": "A",
+      "image": ""
+      },
+      {
+      "code": "LSYJ3A",
+      "group": "LE SSERAFIM",
+      "name": "Yunjin",
+      "rarity": "3",
+      "version": "A",
+      "image": ""
+      },
+      {
+      "code": "LSCW3A",
+      "group": "LE SSERAFIM",
+      "name": "Chaewon",
+      "rarity": "3",
+      "version": "A",
+      "image": ""
+      },
+      {
+      "code": "LSSKR3A ",
+      "group": "LE SSERAFIM",
+      "name": "Sakura",
+      "rarity": "3",
+      "version": "A",
+      "image": ""
+      }
+    ]
+  }
