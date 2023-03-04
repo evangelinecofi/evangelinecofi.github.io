@@ -108,5 +108,366 @@
     "era": "FEARLESS",
     "color": "24597A",
     "image": "https://cdn.discordapp.com/attachments/1006181158012342432/1081482397230575646/lesserafim3_20230201210644.png"
+  },
+
+  "K1YJ1A": {
+    "group": "Kep1er",
+    "name": "Yujin",
+    "rarity": "1",
+    "version": "A",
+    "era": "Up!",
+    "color": "D8E7F4",
+    "image": "https://cdn.discordapp.com/attachments/1031797593413525515/1032970301866266744/cofi_1s_kep1_up_20221020185422.png"
+  },
+
+  "K1XT1A": {
+    "group": "Kep1er",
+    "name": "Xiaoting",
+    "rarity": "1",
+    "version": "A",
+    "era": "Up!",
+    "color": "C2423F",
+    "image": "https://cdn.discordapp.com/attachments/1031797593413525515/1032970418073649193/cofi_1s_kep1_up_20221021182943.png"
+  },
+
+  "K1MSR1A": {
+    "group": "Kep1er",
+    "name": "Mashiro",
+    "rarity": "1",
+    "version": "A",
+    "era": "Up!",
+    "color": "F0E29C",
+    "image": "https://cdn.discordapp.com/attachments/1031797593413525515/1032970321852117082/cofi_1s_kep1_up_20221020234506.png"
+  },
+
+  "K1CH1A": {
+    "group": "Kep1er",
+    "name": "Chaehyun",
+    "rarity": "1",
+    "version": "A",
+    "era": "Up!",
+    "color": "F1A5C1 ",
+    "image": "https://cdn.discordapp.com/attachments/1031797593413525515/1032970369105141830/cofi_1s_kep1_up_20221021171908.png"
+  },
+
+  "K1DY1A": {
+    "group": "Kep1er",
+    "name": "Dayeon",
+    "rarity": "1",
+    "version": "A",
+    "era": "Up!",
+    "color": "F39F83",
+    "image": "https://cdn.discordapp.com/attachments/1031797593413525515/1032970434032959568/cofi_1s_kep1_up_20221021184946.png"
+  },
+
+  "K1HKR1A": {
+    "group": "Kep1er",
+    "name": "Hikaru",
+    "rarity": "1",
+    "version": "A",
+    "era": "Up!",
+    "color": "8ECDD4",
+    "image": "https://cdn.discordapp.com/attachments/1031797593413525515/1032970385899130910/cofi_1s_kep1_up_20221021175802.png"
+  },
+
+  "K1BHY1A": {
+    "group": "Kep1er",
+    "name": "Bahiyyih",
+    "rarity": "1",
+    "version": "A",
+    "era": "Up!",
+    "color": "8ECDD4",
+    "image": "https://cdn.discordapp.com/attachments/1031797593413525515/1032970404559601684/cofi_1s_kep1_up_20221021180040.png"
+  },
+
+  "K1YE1A": {
+    "group": "Kep1er",
+    "name": "Youngeun",
+    "rarity": "1",
+    "version": "A",
+    "era": "Up!",
+    "color": "8ECDD4",
+    "image": "https://cdn.discordapp.com/attachments/1031797593413525515/1032970337358467072/cofi_1s_kep1_up_20221021161256.png"
+  },
+  
+  "K1YS1A": {
+    "group": "Kep1er",
+    "name": "Yeseo",
+    "rarity": "1",
+    "version": "A",
+    "era": "Up!",
+    "color": "E3C4CC",
+    "image": "https://cdn.discordapp.com/attachments/1031797593413525515/1032970285164544041/cofi_1s_kep1_up_20221020185219.png"
+  },
+
+  "LOVV1A": {
+    "group": "LOONA",
+    "name": "Vivi",
+    "rarity": "1",
+    "version": "A",
+    "era": "Flip That",
+    "color": "F2B8C6",
+    "image": "https://cdn.discordapp.com/attachments/1028228356635889705/1028279675266535444/vivi1star.png"
+  },
+
+  "LOYV1A": {
+    "group": "LOONA",
+    "name": "Yves",
+    "rarity": "1",
+    "version": "A",
+    "era": "Flip That",
+    "color": "FC94AF",
+    "image": "https://cdn.discordapp.com/attachments/1028228356635889705/1028279675753091092/yves1star.png"
+  },
+
+  "LOJS1A": {
+    "group": "LOONA",
+    "name": "Jinsoul",
+    "rarity": "1",
+    "version": "A",
+    "era": "Flip That",
+    "color": "F2B8C6",
+    "image": "https://cdn.discordapp.com/attachments/1028228356635889705/1028279676289945702/jinsoul1star.png"
+  },
+
+  "LOHS1A": {
+    "group": "LOONA",
+    "name": "Haseul",
+    "rarity": "1",
+    "version": "A",
+    "era": "Flip That",
+    "color": "F2B8C6",
+    "image": "https://cdn.discordapp.com/attachments/1028228356635889705/1028279676638089216/haseul1star.png"
+  },
+
+  "LOKL1A": {
+    "group": "LOONA",
+    "name": "Kim Lip",
+    "rarity": "1",
+    "version": "A",
+    "era": "Flip That",
+    "color": "F2B8C6",
+    "image": "https://cdn.discordapp.com/attachments/1028228356635889705/1028279677044920420/kimlip1star.png"
+  },
+
+  "LOCH1A": {
+    "group": "LOONA",
+    "name": "Chuu",
+    "rarity": "1",
+    "version": "A",
+    "era": "Flip That",
+    "color": "F2B8C6",
+    "image": "https://cdn.discordapp.com/attachments/1028228356635889705/1028279677468557372/chuu1star.png"
+  },
+
+  "LOHJ1A": {
+    "group": "LOONA",
+    "name": "Heejin",
+    "rarity": "1",
+    "version": "A",
+    "era": "Flip That",
+    "color": "F2B8C6",
+    "image": "https://cdn.discordapp.com/attachments/1028228356635889705/1028279677971861584/heejin1star.png"
+  },
+
+  "LOHY1A": {
+    "group": "LOONA",
+    "name": "Hyunjin",
+    "rarity": "1",
+    "version": "A",
+    "era": "Flip That",
+    "color": "F2B8C6",
+    "image": "https://cdn.discordapp.com/attachments/1028228356635889705/1028279678328389733/hyunjin1star.png"
+  },
+
+  "LOGW1A": {
+    "group": "LOONA",
+    "name": "Gowon",
+    "rarity": "1",
+    "version": "A",
+    "era": "Flip That",
+    "color": "F2B8C6",
+    "image": "https://media.discordapp.net/attachments/1028228356635889705/1028279678722658334/gowon1star.png?width=507&height=676"
+  },
+
+  "LOCR1A": {
+    "group": "LOONA",
+    "name": "Choerry",
+    "rarity": "1",
+    "version": "A",
+    "era": "Flip That",
+    "color": "F2B8C6",
+    "image": "https://cdn.discordapp.com/attachments/1028228356635889705/1028279679200792586/choerry1star.png"
+  },
+
+  "LOOH1A": {
+    "group": "LOONA",
+    "name": "Olivia Hye",
+    "rarity": "1",
+    "version": "A",
+    "era": "Flip That",
+    "color": "F2B8C6",
+    "image": "https://cdn.discordapp.com/attachments/1028228356635889705/1028279718744707142/oliviahye1star.png"
+  },
+
+  "LOYJ1A": {
+    "group": "LOONA",
+    "name": "Yeojin",
+    "rarity": "1",
+    "version": "A",
+    "era": "Flip That",
+    "color": "F2B8C6",
+    "image": "https://cdn.discordapp.com/attachments/1028228356635889705/1028279719105396736/yeojin1star.png"
+  },
+
+  "RVIR1A": {
+    "group": "Red Velvet",
+    "name": "Irene",
+    "rarity": "1",
+    "version": "A",
+    "era": "Feel My Rhythm",
+    "color": "76BDEB",
+    "image": "https://cdn.discordapp.com/attachments/1028927037966127156/1029324946691850320/irene1star.png"
+  },
+
+  "RVSG1A": {
+    "group": "Red Velvet",
+    "name": "Seulgi",
+    "rarity": "1",
+    "version": "A",
+    "era": "Feel My Rhythm",
+    "color": "76BDEB",
+    "image": "https://cdn.discordapp.com/attachments/1028927037966127156/1029324947081940992/seulgi1star.png"
+  },
+
+  "RVWD1A": {
+    "group": "Red Velvet",
+    "name": "Wendy",
+    "rarity": "1",
+    "version": "A",
+    "era": "Feel My Rhythm",
+    "color": "76BDEB",
+    "image": "https://cdn.discordapp.com/attachments/1028927037966127156/1029324947409076224/wendy1star.png"
+  },
+
+  "RVJO1A": {
+    "group": "Red Velvet",
+    "name": "Joy",
+    "rarity": "1",
+    "version": "A",
+    "era": "Feel My Rhythm",
+    "color": "76BDEB",
+    "image": "https://cdn.discordapp.com/attachments/1028927037966127156/1029324947794952272/joy1star.png"
+  },
+
+  "RVYR1A": {
+    "group": "Red Velvet",
+    "name": "Yeri",
+    "rarity": "1",
+    "version": "A",
+    "era": "Feel My Rhythm",
+    "color": "76BDEB",
+    "image": "https://cdn.discordapp.com/attachments/1028927037966127156/1029324948210208798/yeri1star.png"
+  },
+  
+  "WANN1A": {
+    "group": "woo!ah!",
+    "name": "Nana",
+    "rarity": "1",
+    "version": "A",
+    "era": "Catch The Stars",
+    "color": "6B8A87",
+    "image": "https://media.discordapp.net/attachments/1052971073626447986/1053668831668748328/wooah_1_20221217163818.png?width=507&height=676"
+  },
+
+  "WAWY1A": {
+    "group": "woo!ah!",
+    "name": "Wooyeon",
+    "rarity": "1",
+    "version": "A",
+    "era": "Catch The Stars",
+    "color": "6B8A87",
+    "image": "https://media.discordapp.net/attachments/1052971073626447986/1053668832033656892/wooah_1_20221217181736.png?width=507&height=676"
+  },
+
+  "WASR1A": {
+    "group": "woo!ah!",
+    "name": "Sora",
+    "rarity": "1",
+    "version": "A",
+    "era": "Catch The Stars",
+    "color": "6B8A87",
+    "image": "https://media.discordapp.net/attachments/1052971073626447986/1053668832390156388/wooah_1_20221217185736.png?width=507&height=676"
+  },
+
+  "WALC1A": {
+    "group": "woo!ah!",
+    "name": "Lucy",
+    "rarity": "1",
+    "version": "A",
+    "era": "Catch The Stars",
+    "color": "6B8A87",
+    "image": "https://media.discordapp.net/attachments/1052971073626447986/1053668832755073044/wooah_1_20221217185810.png?width=507&height=676"
+  },
+
+  "WAMS1A": {
+    "group": "woo!ah!",
+    "name": "Minseo",
+    "rarity": "1",
+    "version": "A",
+    "era": "Catch The Stars",
+    "color": "6B8A87",
+    "image": "https://media.discordapp.net/attachments/1052971073626447986/1053668833153536080/wooah_1_20221217185852.png?width=507&height=676"
+  },
+
+  "SOCH1A": {
+    "group": "Soloist",
+    "name": "Chungha",
+    "rarity": "1",
+    "version": "A",
+    "era": "Sparkling",
+    "color": "",
+    "image": "https://cdn.discordapp.com/attachments/1071356196327538768/1076543403908669480/chungha_1.png"
+  },
+
+  "SOCH3A": {
+    "group": "Soloist",
+    "name": "Chungha",
+    "rarity": "3",
+    "version": "A",
+    "era": "Sparkling",
+    "color": "",
+    "image": "https://cdn.discordapp.com/attachments/1071356264178786364/1076543517838540930/chungha31.png"
+  },
+
+  "SOSM1A": {
+    "group": "Soloist",
+    "name": "Sunmi",
+    "rarity": "1",
+    "version": "A",
+    "era": "You Can't Sit With Us",
+    "color": "",
+    "image": "https://cdn.discordapp.com/attachments/1069595632874041414/1069634353841311824/sunmit1.png"
+  },
+
+  "SOSM3A": {
+    "group": "Soloist",
+    "name": "Sunmi",
+    "rarity": "3",
+    "version": "A",
+    "era": "You Can't Sit With Us",
+    "color": "",
+    "image": "https://cdn.discordapp.com/attachments/1069597766432604250/1069634206965170176/sunmit3.png"
+  },
+
+  "SOTY1A": {
+    "group": "Soloist",
+    "name": "Taeyeon",
+    "rarity": "1",
+    "version": "A",
+    "era": "INVU",
+    "color": "",
+    "image": "https://cdn.discordapp.com/attachments/1031484076902862869/1031570732947345528/taeyeon1star.png"
   }
+  
 }
