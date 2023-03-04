@@ -1,42 +1,47 @@
 
 {
-  "TXTHK1A": {
+  "TXHK1A": {
     "group": "TXT",
     "name": "Huening Kai",
     "rarity": "1",
     "version": "A",
+    "era": "Sugar Rush Ride",
     "image": ""
   },
   
-  "TXTTH1A": {
+  "TXTH1A": {
     "group": "TXT",
     "name": "Taehyun",
     "rarity": "1",
     "version": "A",
+    "era": "Sugar Rush Ride",
     "image": ""
   },
 
-  "TXTBG1A": {
+  "TXBG1A": {
     "group": "TXT",
     "name": "Beomgyu",
     "rarity": "1",
     "version": "A",
+    "era": "Sugar Rush Ride",
     "image": ""
   },
 
-  "TXTSB1A": {
+  "TXSB1A": {
     "group": "TXT",
     "name": "Soobin",
     "rarity": "1",
     "version": "A",
+    "era": "Sugar Rush Ride",
     "image": ""
   },
 
-  "TXTYJ1A": {
+  "TXYJ1A": {
     "group": "TXT",
     "name": "Yeonjun",
     "rarity": "1",
     "version": "A",
+    "era": "Sugar Rush Ride",
     "image": ""
   },
 
@@ -45,6 +50,7 @@
     "name": "Eunchae",
     "rarity": "3",
     "version": "A",
+    "era": "FEARLESS",
     "image": ""
   },
 
@@ -53,6 +59,7 @@
     "name": "Garam",
     "rarity": "3",
     "version": "A",
+    "era": "FEARLESS",
     "image": "https://media.discordapp.net/attachments/1006181158012342432/1052497987248607292/le_sserafim_3_remake_20221213164318.png?width=507&height=676"
   },
   
@@ -61,6 +68,7 @@
     "name": "Kazuha",
     "rarity": "3",
     "version": "A",
+    "era": "FEARLESS",
     "image": "https://media.discordapp.net/attachments/1006181158012342432/1052487611953979452/le_sserafim_3_remake_20221213182243.png?width=507&height=676"
   },
 
@@ -69,6 +77,7 @@
     "name": "Yunjin",
     "rarity": "3",
     "version": "A",
+    "era": "FEARLESS",
     "image": ""
   },
 
@@ -77,6 +86,7 @@
     "name": "Chaewon",
     "rarity": "3",
     "version": "A",
+    "era": "FEARLESS",
     "image": ""
   },
 
@@ -85,6 +95,7 @@
     "name": "Sakura",
     "rarity": "3",
     "version": "A",
+    "era": "FEARLESS",
     "image": "https://media.discordapp.net/attachments/1006181158012342432/1052487611652001842/le_sserafim_3_remake_20221214152508.png?width=507&height=676"
   }
 }
