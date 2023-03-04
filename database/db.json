@@ -6,7 +6,8 @@
     "rarity": "1",
     "version": "A",
     "era": "Sugar Rush Ride",
-    "image": ""
+    "color": "ADD8E6",
+    "image": "https://cdn.discordapp.com/attachments/1080484014927921282/1080484129113649213/Untitled450_20230301213439.png"
   },
   
   "TXTH1A": {
@@ -15,7 +16,8 @@
     "rarity": "1",
     "version": "A",
     "era": "Sugar Rush Ride",
-    "image": ""
+    "color": "ADD8E6",
+    "image": "https://cdn.discordapp.com/attachments/1070340776799785071/1081478590585122867/Untitled450_20230301213511.png"
   },
 
   "TXBG1A": {
@@ -24,7 +26,8 @@
     "rarity": "1",
     "version": "A",
     "era": "Sugar Rush Ride",
-    "image": ""
+    "color": "ADD8E6",
+    "image": "https://cdn.discordapp.com/attachments/1070340776799785071/1081478537292304404/Untitled450_20230301213524.png"
   },
 
   "TXSB1A": {
@@ -33,7 +36,8 @@
     "rarity": "1",
     "version": "A",
     "era": "Sugar Rush Ride",
-    "image": ""
+    "color": "ADD8E6",
+    "image": "https://cdn.discordapp.com/attachments/1070340776799785071/1081478511140819004/Untitled450_20230301213607.png"
   },
 
   "TXYJ1A": {
@@ -42,7 +46,8 @@
     "rarity": "1",
     "version": "A",
     "era": "Sugar Rush Ride",
-    "image": ""
+    "color": "ADD8E6",
+    "image": "https://cdn.discordapp.com/attachments/1070340776799785071/1081478434968059934/Untitled450_20230301213550.png"
   },
 
   "LSEC3A": {
@@ -51,7 +56,8 @@
     "rarity": "3",
     "version": "A",
     "era": "FEARLESS",
-    "image": ""
+    "color": "24597A",
+    "image": "https://cdn.discordapp.com/attachments/1006181158012342432/1081482606161436712/lesserafim3_20230201205906.png"
   },
 
   "LSGR3A": {
@@ -60,7 +66,8 @@
     "rarity": "3",
     "version": "A",
     "era": "FEARLESS",
-    "image": "https://media.discordapp.net/attachments/1006181158012342432/1052497987248607292/le_sserafim_3_remake_20221213164318.png?width=507&height=676"
+    "color": "24597A",
+    "image": "https://cdn.discordapp.com/attachments/1006181158012342432/1081482527144956024/lesserafim3_20230201205931.png"
   },
   
   "LSKZH3A": {
@@ -69,7 +76,8 @@
     "rarity": "3",
     "version": "A",
     "era": "FEARLESS",
-    "image": "https://media.discordapp.net/attachments/1006181158012342432/1052487611953979452/le_sserafim_3_remake_20221213182243.png?width=507&height=676"
+    "color": "24597A",
+    "image": "https://cdn.discordapp.com/attachments/1006181158012342432/1081482490583191602/lesserafim3_20230201205944.png"
   },
 
   "LSYJ3A": {
@@ -78,7 +86,8 @@
     "rarity": "3",
     "version": "A",
     "era": "FEARLESS",
-    "image": ""
+    "color": "24597A",
+    "image": "https://cdn.discordapp.com/attachments/1006181158012342432/1081482451299348530/lesserafim3_20230203205412.png"
   },
 
   "LSCW3A": {
@@ -87,7 +96,8 @@
     "rarity": "3",
     "version": "A",
     "era": "FEARLESS",
-    "image": ""
+    "color": "24597A",
+    "image": "https://cdn.discordapp.com/attachments/1006181158012342432/1081482331719741490/lesserafim3_20230201213617.png"
   },
 
   "LSSKR3A": {
@@ -96,6 +106,7 @@
     "rarity": "3",
     "version": "A",
     "era": "FEARLESS",
-    "image": "https://media.discordapp.net/attachments/1006181158012342432/1052487611652001842/le_sserafim_3_remake_20221214152508.png?width=507&height=676"
+    "color": "24597A",
+    "image": "https://cdn.discordapp.com/attachments/1006181158012342432/1081482397230575646/lesserafim3_20230201210644.png"
   }
 }
