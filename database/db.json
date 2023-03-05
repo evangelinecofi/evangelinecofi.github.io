@@ -468,6 +468,26 @@
     "era": "INVU",
     "color": "",
     "image": "https://cdn.discordapp.com/attachments/1031484076902862869/1031570732947345528/taeyeon1star.png"
+  },
+
+  "PLACEHOLDER2": {
+    "group": "TXT",
+    "name": "",
+    "rarity": "2",
+    "version": "A",
+    "era": "Placeholder",
+    "color": "DDE1E2",
+    "image": "https://media.discordapp.net/attachments/738995143075561584/1081827154985242634/Untitled454_20230305143443.png?width=507&height=676"
+  },
+
+  "PLACEHOLDER5": {
+    "group": "TXT",
+    "name": "",
+    "rarity": "5",
+    "version": "A",
+    "era": "Placeholder",
+    "color": "EFF0EB",
+    "image": "https://media.discordapp.net/attachments/738995143075561584/1081830624375099412/Untitled454_20230305144330.png?width=507&height=676"
   }
   
 }
