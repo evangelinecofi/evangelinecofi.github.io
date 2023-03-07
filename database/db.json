@@ -426,7 +426,7 @@
     "rarity": "1",
     "version": "A",
     "era": "Sparkling",
-    "color": "",
+    "color": "CFD4DA",
     "image": "https://cdn.discordapp.com/attachments/1071356196327538768/1076543403908669480/chungha_1.png"
   },
 
@@ -436,7 +436,7 @@
     "rarity": "3",
     "version": "A",
     "era": "Sparkling",
-    "color": "",
+    "color": "9D87B0",
     "image": "https://cdn.discordapp.com/attachments/1071356264178786364/1076543517838540930/chungha31.png"
   },
 
@@ -446,7 +446,7 @@
     "rarity": "1",
     "version": "A",
     "era": "You Can't Sit With Us",
-    "color": "",
+    "color": "EFDAD9",
     "image": "https://cdn.discordapp.com/attachments/1069595632874041414/1069634353841311824/sunmit1.png"
   },
 
@@ -456,7 +456,7 @@
     "rarity": "3",
     "version": "A",
     "era": "You Can't Sit With Us",
-    "color": "",
+    "color": "E99EDD",
     "image": "https://cdn.discordapp.com/attachments/1069597766432604250/1069634206965170176/sunmit3.png"
   },
 
@@ -466,7 +466,7 @@
     "rarity": "1",
     "version": "A",
     "era": "INVU",
-    "color": "",
+    "color": "A3B7D0",
     "image": "https://cdn.discordapp.com/attachments/1031484076902862869/1031570732947345528/taeyeon1star.png"
   },
 
@@ -478,6 +478,16 @@
     "era": "Placeholder",
     "color": "DDE1E2",
     "image": "https://media.discordapp.net/attachments/738995143075561584/1081827154985242634/Untitled454_20230305143443.png?width=507&height=676"
+  },
+
+  "PLACEHOLDER4": {
+    "group": "TXT",
+    "name": "",
+    "rarity": "4",
+    "version": "A",
+    "era": "Placeholder",
+    "color": "DDE1E2",
+    "image": ""
   },
 
   "PLACEHOLDER5": {
