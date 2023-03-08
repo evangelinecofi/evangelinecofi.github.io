@@ -440,6 +440,26 @@
     "image": "https://cdn.discordapp.com/attachments/1071356264178786364/1076543517838540930/chungha31.png"
   },
 
+  "SOLB1A": {
+    "group": "Soloist",
+    "name": "LEEBADA",
+    "rarity": "1",
+    "version": "A",
+    "era": "Siren",
+    "color": "490D17",
+    "image": "https://cdn.discordapp.com/attachments/1081531995445809252/1082107834017251368/Untitled451_20230304212105.png"
+  },
+
+  "SOLB3A": {
+    "group": "Soloist",
+    "name": "LEEBADA",
+    "rarity": "3",
+    "version": "A",
+    "era": "Siren",
+    "color": "CDC6A9",
+    "image": "https://cdn.discordapp.com/attachments/1082108028490350612/1082108631660642374/Untitled459_20230306004931.png"
+  },
+
   "SOSM1A": {
     "group": "Soloist",
     "name": "Sunmi",
