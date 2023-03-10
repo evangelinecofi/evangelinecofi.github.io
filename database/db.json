@@ -110,6 +110,66 @@
     "image": "https://cdn.discordapp.com/attachments/1006181158012342432/1081482397230575646/lesserafim3_20230201210644.png"
   },
 
+  "LSEC1A": {
+    "group": "LE SSERAFIM",
+    "name": "Eunchae",
+    "rarity": "1",
+    "version": "A",
+    "era": "FEARLESS",
+    "color": "D3C2C8",
+    "image": "https://cdn.discordapp.com/attachments/1007563779359391754/1083752187349434411/le_sserafim_1_v3_20230122161421.png"
+  },
+
+  "LSGR1A": {
+    "group": "LE SSERAFIM",
+    "name": "Garam",
+    "rarity": "1",
+    "version": "A",
+    "era": "FEARLESS",
+    "color": "A2ADC1",
+    "image": "https://cdn.discordapp.com/attachments/1007563779359391754/1083752184199512215/le_sserafim_1_v3_20230202171220.png"
+  },
+  
+  "LSKZH1A": {
+    "group": "LE SSERAFIM",
+    "name": "Kazuha",
+    "rarity": "1",
+    "version": "A",
+    "era": "FEARLESS",
+    "color": "A6D4E5",
+    "image": "https://cdn.discordapp.com/attachments/1007563779359391754/1083752186732875907/le_sserafim_1_v3_20230201212159.png"
+  },
+
+  "LSYJ1A": {
+    "group": "LE SSERAFIM",
+    "name": "Yunjin",
+    "rarity": "1",
+    "version": "A",
+    "era": "FEARLESS",
+    "color": "B3C3D0",
+    "image": "https://cdn.discordapp.com/attachments/1007563779359391754/1083752185575264316/le_sserafim_1_v3_20230201212352.png"
+  },
+
+  "LSCW1A": {
+    "group": "LE SSERAFIM",
+    "name": "Chaewon",
+    "rarity": "1",
+    "version": "A",
+    "era": "FEARLESS",
+    "color": "E3D9D8",
+    "image": "https://cdn.discordapp.com/attachments/1007563779359391754/1083752185004822558/le_sserafim_1_v3_20230201234847.png"
+  },
+
+  "LSSKR1A": {
+    "group": "LE SSERAFIM",
+    "name": "Sakura",
+    "rarity": "1",
+    "version": "A",
+    "era": "FEARLESS",
+    "color": "6692C0",
+    "image": "https://cdn.discordapp.com/attachments/1007563779359391754/1083752186116309002/le_sserafim_1_v3_20230201212222.png"
+  },
+
   "K1YJ1A": {
     "group": "Kep1er",
     "name": "Yujin",
