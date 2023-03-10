@@ -650,14 +650,24 @@
     "image": "https://media.discordapp.net/attachments/738995143075561584/1081827154985242634/Untitled454_20230305143443.png?width=507&height=676"
   },
 
+  "PLACEHOLDER2B": {
+    "group": "TXT",
+    "name": "",
+    "rarity": "2",
+    "version": "B",
+    "era": "Placeholder",
+    "color": "C0ABA6",
+    "image": "https://media.discordapp.net/attachments/738995143075561584/1081827000903290930/Untitled454_20230305143406.png?width=507&height=676"
+  },
+
   "PLACEHOLDER4": {
     "group": "TXT",
     "name": "",
     "rarity": "4",
     "version": "A",
     "era": "Placeholder",
-    "color": "DDE1E2",
-    "image": ""
+    "color": "E8D6C2",
+    "image": "https://pbs.twimg.com/media/FqxiXrNacAA0kur?format=jpg&name=large"
   },
 
   "PLACEHOLDER5": {
