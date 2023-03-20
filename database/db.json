@@ -50,66 +50,6 @@
     "image": "https://cdn.discordapp.com/attachments/1070340776799785071/1081478434968059934/Untitled450_20230301213550.png"
   },
 
-  "LSEC3A": {
-    "group": "LE SSERAFIM",
-    "name": "Eunchae",
-    "rarity": "3",
-    "version": "A",
-    "era": "FEARLESS",
-    "color": "24597A",
-    "image": "https://cdn.discordapp.com/attachments/1006181158012342432/1081482606161436712/lesserafim3_20230201205906.png"
-  },
-
-  "LSGR3A": {
-    "group": "LE SSERAFIM",
-    "name": "Garam",
-    "rarity": "3",
-    "version": "A",
-    "era": "FEARLESS",
-    "color": "24597A",
-    "image": "https://cdn.discordapp.com/attachments/1006181158012342432/1081482527144956024/lesserafim3_20230201205931.png"
-  },
-  
-  "LSKZH3A": {
-    "group": "LE SSERAFIM",
-    "name": "Kazuha",
-    "rarity": "3",
-    "version": "A",
-    "era": "FEARLESS",
-    "color": "24597A",
-    "image": "https://cdn.discordapp.com/attachments/1006181158012342432/1081482490583191602/lesserafim3_20230201205944.png"
-  },
-
-  "LSYJ3A": {
-    "group": "LE SSERAFIM",
-    "name": "Yunjin",
-    "rarity": "3",
-    "version": "A",
-    "era": "FEARLESS",
-    "color": "24597A",
-    "image": "https://cdn.discordapp.com/attachments/1006181158012342432/1081482451299348530/lesserafim3_20230203205412.png"
-  },
-
-  "LSCW3A": {
-    "group": "LE SSERAFIM",
-    "name": "Chaewon",
-    "rarity": "3",
-    "version": "A",
-    "era": "FEARLESS",
-    "color": "24597A",
-    "image": "https://cdn.discordapp.com/attachments/1006181158012342432/1081482331719741490/lesserafim3_20230201213617.png"
-  },
-
-  "LSSKR3A": {
-    "group": "LE SSERAFIM",
-    "name": "Sakura",
-    "rarity": "3",
-    "version": "A",
-    "era": "FEARLESS",
-    "color": "24597A",
-    "image": "https://cdn.discordapp.com/attachments/1006181158012342432/1081482397230575646/lesserafim3_20230201210644.png"
-  },
-
   "LSEC1A": {
     "group": "LE SSERAFIM",
     "name": "Eunchae",
@@ -168,6 +108,96 @@
     "era": "FEARLESS",
     "color": "6692C0",
     "image": "https://cdn.discordapp.com/attachments/1007563779359391754/1083752186116309002/le_sserafim_1_v3_20230201212222.png"
+  },
+
+  "CVSR1A": {
+    "group": "CRAVITY",
+    "name": "Serim",
+    "rarity": "1",
+    "version": "A",
+    "era": "Groovy",
+    "color": "EFE1D4",
+    "image": "https://cdn.discordapp.com/attachments/1082305069678080080/1082669263610986566/Untitled460_20230307215859.png"
+  },
+
+  "CVAL1A": {
+    "group": "CRAVITY",
+    "name": "Allen",
+    "rarity": "1",
+    "version": "A",
+    "era": "Groovy",
+    "color": "ECE7EB",
+    "image": "https://cdn.discordapp.com/attachments/1082305069678080080/1082669274897846302/Untitled460_20230307215921.png"
+  },
+
+  "CVJM1A": {
+    "group": "CRAVITY",
+    "name": "Jungmo",
+    "rarity": "1",
+    "version": "A",
+    "era": "Groovy",
+    "color": "EFE1D4",
+    "image": "https://cdn.discordapp.com/attachments/1082305069678080080/1082669497548284016/Untitled460_20230307215934.png"
+  },
+
+  "CVWB1A": {
+    "group": "CRAVITY",
+    "name": "Woobin",
+    "rarity": "1",
+    "version": "A",
+    "era": "Groovy",
+    "color": "E5D2CC",
+    "image": "https://cdn.discordapp.com/attachments/1082305069678080080/1082669432100368404/Untitled460_20230307215945.png"
+  },
+
+  "CVWJ1A": {
+    "group": "CRAVITY",
+    "name": "Wonjin",
+    "rarity": "1",
+    "version": "A",
+    "era": "Groovy",
+    "color": "ECDDD6",
+    "image": "https://cdn.discordapp.com/attachments/1082305069678080080/1082670067008934009/Untitled460_20230307221632.png"
+  },
+
+  "CVMH1A": {
+    "group": "CRAVITY",
+    "name": "Minhee",
+    "rarity": "1",
+    "version": "A",
+    "era": "Groovy",
+    "color": "EFE1D4",
+    "image": "https://cdn.discordapp.com/attachments/1082305069678080080/1082669723302514698/Untitled460_20230307220009.png"
+  },
+
+  "CVHJ1A": {
+    "group": "CRAVITY",
+    "name": "Hyeongjun",
+    "rarity": "1",
+    "version": "A",
+    "era": "Groovy",
+    "color": "EFE1D4",
+    "image": "https://cdn.discordapp.com/attachments/1082305069678080080/1082669791313137704/Untitled460_20230307220023.png"
+  },
+
+  "CVTY1A": {
+    "group": "CRAVITY",
+    "name": "Taeyoung",
+    "rarity": "1",
+    "version": "A",
+    "era": "Groovy",
+    "color": "E7DBDD",
+    "image": "https://cdn.discordapp.com/attachments/1082305069678080080/1082669831901417482/Untitled460_20230307220101.png"
+  },
+
+  "CVSM1A": {
+    "group": "CRAVITY",
+    "name": "Seongmin",
+    "rarity": "1",
+    "version": "A",
+    "era": "Groovy",
+    "color": "EBE6E3",
+    "image": "https://cdn.discordapp.com/attachments/1082305069678080080/1082669916873830431/Untitled460_20230307220129.png"
   },
 
   "IZEB1A": {
@@ -599,96 +629,6 @@
     "color": "6B8A87",
     "image": "https://media.discordapp.net/attachments/1052971073626447986/1053668833153536080/wooah_1_20221217185852.png?width=507&height=676"
   },
-
-  "CVSR1A": {
-    "group": "CRAVITY",
-    "name": "Serim",
-    "rarity": "1",
-    "version": "A",
-    "era": "Groovy",
-    "color": "EFE1D4",
-    "image": "https://cdn.discordapp.com/attachments/1082305069678080080/1082669263610986566/Untitled460_20230307215859.png"
-  },
-
-  "CVAL1A": {
-    "group": "CRAVITY",
-    "name": "Allen",
-    "rarity": "1",
-    "version": "A",
-    "era": "Groovy",
-    "color": "ECE7EB",
-    "image": "https://cdn.discordapp.com/attachments/1082305069678080080/1082669274897846302/Untitled460_20230307215921.png"
-  },
-
-  "CVJM1A": {
-    "group": "CRAVITY",
-    "name": "Jungmo",
-    "rarity": "1",
-    "version": "A",
-    "era": "Groovy",
-    "color": "EFE1D4",
-    "image": "https://cdn.discordapp.com/attachments/1082305069678080080/1082669497548284016/Untitled460_20230307215934.png"
-  },
-
-  "CVWB1A": {
-    "group": "CRAVITY",
-    "name": "Woobin",
-    "rarity": "1",
-    "version": "A",
-    "era": "Groovy",
-    "color": "E5D2CC",
-    "image": "https://cdn.discordapp.com/attachments/1082305069678080080/1082669432100368404/Untitled460_20230307215945.png"
-  },
-
-  "CVWJ1A": {
-    "group": "CRAVITY",
-    "name": "Wonjin",
-    "rarity": "1",
-    "version": "A",
-    "era": "Groovy",
-    "color": "ECDDD6",
-    "image": "https://cdn.discordapp.com/attachments/1082305069678080080/1082670067008934009/Untitled460_20230307221632.png"
-  },
-
-  "CVMH1A": {
-    "group": "CRAVITY",
-    "name": "Minhee",
-    "rarity": "1",
-    "version": "A",
-    "era": "Groovy",
-    "color": "EFE1D4",
-    "image": "https://cdn.discordapp.com/attachments/1082305069678080080/1082669723302514698/Untitled460_20230307220009.png"
-  },
-
-  "CVHJ1A": {
-    "group": "CRAVITY",
-    "name": "Hyeongjun",
-    "rarity": "1",
-    "version": "A",
-    "era": "Groovy",
-    "color": "EFE1D4",
-    "image": "https://cdn.discordapp.com/attachments/1082305069678080080/1082669791313137704/Untitled460_20230307220023.png"
-  },
-
-  "CVTY1A": {
-    "group": "CRAVITY",
-    "name": "Taeyoung",
-    "rarity": "1",
-    "version": "A",
-    "era": "Groovy",
-    "color": "E7DBDD",
-    "image": "https://cdn.discordapp.com/attachments/1082305069678080080/1082669831901417482/Untitled460_20230307220101.png"
-  },
-
-  "CVSM1A": {
-    "group": "CRAVITY",
-    "name": "Seongmin",
-    "rarity": "1",
-    "version": "A",
-    "era": "Groovy",
-    "color": "EBE6E3",
-    "image": "https://cdn.discordapp.com/attachments/1082305069678080080/1082669916873830431/Untitled460_20230307220129.png"
-  },
   
   "SOCH1A": {
     "group": "Soloist",
@@ -778,6 +718,66 @@
     "era": "Placeholder",
     "color": "C0ABA6",
     "image": "https://media.discordapp.net/attachments/738995143075561584/1081827000903290930/Untitled454_20230305143406.png?width=507&height=676"
+  },
+
+  "LSEC3A": {
+    "group": "LE SSERAFIM",
+    "name": "Eunchae",
+    "rarity": "3",
+    "version": "A",
+    "era": "FEARLESS",
+    "color": "24597A",
+    "image": "https://cdn.discordapp.com/attachments/1006181158012342432/1081482606161436712/lesserafim3_20230201205906.png"
+  },
+
+  "LSGR3A": {
+    "group": "LE SSERAFIM",
+    "name": "Garam",
+    "rarity": "3",
+    "version": "A",
+    "era": "FEARLESS",
+    "color": "24597A",
+    "image": "https://cdn.discordapp.com/attachments/1006181158012342432/1081482527144956024/lesserafim3_20230201205931.png"
+  },
+  
+  "LSKZH3A": {
+    "group": "LE SSERAFIM",
+    "name": "Kazuha",
+    "rarity": "3",
+    "version": "A",
+    "era": "FEARLESS",
+    "color": "24597A",
+    "image": "https://cdn.discordapp.com/attachments/1006181158012342432/1081482490583191602/lesserafim3_20230201205944.png"
+  },
+
+  "LSYJ3A": {
+    "group": "LE SSERAFIM",
+    "name": "Yunjin",
+    "rarity": "3",
+    "version": "A",
+    "era": "FEARLESS",
+    "color": "24597A",
+    "image": "https://cdn.discordapp.com/attachments/1006181158012342432/1081482451299348530/lesserafim3_20230203205412.png"
+  },
+
+  "LSCW3A": {
+    "group": "LE SSERAFIM",
+    "name": "Chaewon",
+    "rarity": "3",
+    "version": "A",
+    "era": "FEARLESS",
+    "color": "24597A",
+    "image": "https://cdn.discordapp.com/attachments/1006181158012342432/1081482331719741490/lesserafim3_20230201213617.png"
+  },
+
+  "LSSKR3A": {
+    "group": "LE SSERAFIM",
+    "name": "Sakura",
+    "rarity": "3",
+    "version": "A",
+    "era": "FEARLESS",
+    "color": "24597A",
+    "image": "https://cdn.discordapp.com/attachments/1006181158012342432/1081482397230575646/lesserafim3_20230201210644.png"
   },
 
   "PLACEHOLDER4": {
