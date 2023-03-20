@@ -170,6 +170,126 @@
     "image": "https://cdn.discordapp.com/attachments/1007563779359391754/1083752186116309002/le_sserafim_1_v3_20230201212222.png"
   },
 
+  "IZEB1A": {
+    "group": "IZ*ONE",
+    "name": "Eunbi",
+    "rarity": "1",
+    "version": "A",
+    "era": "Panorama",
+    "color": "C6344B",
+    "image": "https://cdn.discordapp.com/attachments/1048567284538544179/1087045768617152542/cofi1star_izone.png"
+  },
+
+  "IZSKR1A": {
+    "group": "IZ*ONE",
+    "name": "Sakura",
+    "rarity": "1",
+    "version": "A",
+    "era": "Panorama",
+    "color": "C6344B",
+    "image": "https://cdn.discordapp.com/attachments/1048567284538544179/1087045806609158264/sakura1star.png"
+  },
+
+  "IZHW1A": {
+    "group": "IZ*ONE",
+    "name": "Hyewon",
+    "rarity": "1",
+    "version": "A",
+    "era": "Panorama",
+    "color": "C6344B",
+    "image": "https://cdn.discordapp.com/attachments/1048567284538544179/1087045830285996062/hyewon1star.png"
+  },
+
+  "IZYN1A": {
+    "group": "IZ*ONE",
+    "name": "Yena",
+    "rarity": "1",
+    "version": "A",
+    "era": "Panorama",
+    "color": "C6344B",
+    "image": "https://cdn.discordapp.com/attachments/1048567284538544179/1087045862707957851/yena1star.png"
+  },
+
+  "IZCY1A": {
+    "group": "IZ*ONE",
+    "name": "Chaeyeon",
+    "rarity": "1",
+    "version": "A",
+    "era": "Panorama",
+    "color": "C6344B",
+    "image": "https://cdn.discordapp.com/attachments/1048567284538544179/1087045884468019241/chaeyeon1star.png"
+  },
+
+  "IZCW1A": {
+    "group": "IZ*ONE",
+    "name": "Chaewon",
+    "rarity": "1",
+    "version": "A",
+    "era": "Panorama",
+    "color": "C6344B",
+    "image": "https://cdn.discordapp.com/attachments/1048567284538544179/1087045913589055540/chaewon1star.png"
+  },
+
+  "IZMJ1A": {
+    "group": "IZ*ONE",
+    "name": "Minju",
+    "rarity": "1",
+    "version": "A",
+    "era": "Panorama",
+    "color": "C6344B",
+    "image": "https://cdn.discordapp.com/attachments/1048567284538544179/1087045933046431806/minju1star.png"
+  },
+
+  "IZNK1A": {
+    "group": "IZ*ONE",
+    "name": "Nako",
+    "rarity": "1",
+    "version": "A",
+    "era": "Panorama",
+    "color": "C6344B",
+    "image": "https://cdn.discordapp.com/attachments/1048567284538544179/1087045960464617472/nako1star.png"
+  },
+
+  "IZHTM1A": {
+    "group": "IZ*ONE",
+    "name": "Hitomi",
+    "rarity": "1",
+    "version": "A",
+    "era": "Panorama",
+    "color": "C6344B",
+    "image": "https://cdn.discordapp.com/attachments/1048567284538544179/1087045978349117491/hitomi1star.png"
+  },
+
+  "IZYR1A": {
+    "group": "IZ*ONE",
+    "name": "Yuri",
+    "rarity": "1",
+    "version": "A",
+    "era": "Panorama",
+    "color": "C6344B",
+    "image": "https://cdn.discordapp.com/attachments/1048567284538544179/1087046010372624384/yuri1star.png"
+  },
+
+  "IZYJ1A": {
+    "group": "IZ*ONE",
+    "name": "Yujin",
+    "rarity": "1",
+    "version": "A",
+    "era": "Panorama",
+    "color": "C6344B",
+    "image": "https://cdn.discordapp.com/attachments/1048567284538544179/1087046025010753567/yujin1star.png"
+  },
+
+  "IZWY1A": {
+    "group": "IZ*ONE",
+    "name": "Wonyoung",
+    "rarity": "1",
+    "version": "A",
+    "era": "Panorama",
+    "color": "C6344B",
+    "image": "https://cdn.discordapp.com/attachments/1048567284538544179/1087046050621177928/wonyoung1star.png"
+  },
+
   "K1YJ1A": {
     "group": "Kep1er",
     "name": "Yujin",
