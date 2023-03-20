@@ -200,6 +200,46 @@
     "image": "https://cdn.discordapp.com/attachments/1082305069678080080/1082669916873830431/Untitled460_20230307220129.png"
   },
 
+  "H1SI1A": {
+    "group": "H1-KEY",
+    "name": "Seoi",
+    "rarity": "1",
+    "version": "A",
+    "era": "Rose Blossom",
+    "color": "BDE7F3",
+    "image": "https://media.discordapp.net/attachments/1085924051282821150/1087376145713995806/Untitled461_20230320201207.png?width=507&height=676"
+  },
+
+  "H1RN1A": {
+    "group": "H1-KEY",
+    "name": "Riina",
+    "rarity": "1",
+    "version": "A",
+    "era": "Rose Blossom",
+    "color": "755886",
+    "image": "https://media.discordapp.net/attachments/1085924051282821150/1087376187405385848/Untitled461_20230320205348.png?width=507&height=676"
+  },
+
+  "H1HS1A": {
+    "group": "H1-KEY",
+    "name": "Hwiseo",
+    "rarity": "1",
+    "version": "A",
+    "era": "Rose Blossom",
+    "color": "D999CD",
+    "image": "https://media.discordapp.net/attachments/1085924051282821150/1087376212449579089/Untitled461_20230320205438.png?width=507&height=676"
+  },
+
+  "H1YL1A": {
+    "group": "H1-KEY",
+    "name": "Yel",
+    "rarity": "1",
+    "version": "A",
+    "era": "Rose Blossom",
+    "color": "68E5F7",
+    "image": "https://media.discordapp.net/attachments/1085924051282821150/1087376251699863604/Untitled461_20230320210609.png?width=507&height=676"
+  },
+
   "IZEB1A": {
     "group": "IZ*ONE",
     "name": "Eunbi",
