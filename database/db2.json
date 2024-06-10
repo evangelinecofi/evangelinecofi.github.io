@@ -1,3 +1,4 @@
+// full database, db.json is the one with in game cards
 
 {
   "TXHK1A": {
@@ -360,66 +361,6 @@
     "image": "https://cdn.discordapp.com/attachments/1048567284538544179/1087046050621177928/wonyoung1star.png"
   },
 
-  "JBLJ1A": {
-    "group": "JUST B",
-    "name": "Lim Jimin",
-    "rarity": "1",
-    "version": "A",
-    "era": "ME= (NANEUN)",
-    "color": "C2CACB",
-    "image": "https://cdn.discordapp.com/attachments/1053528693064081549/1108237804183498773/Untitled483_20230516233524.png"
-  },
-
-  "JBGN1A": {
-    "group": "JUST B",
-    "name": "Geonu",
-    "rarity": "1",
-    "version": "A",
-    "era": "ME= (NANEUN)",
-    "color": "C2CACB",
-    "image": "https://cdn.discordapp.com/attachments/1053528693064081549/1108238120484356166/Untitled483_20230516233351.png"
-  },
-
-  "JBBI1": {
-    "group": "JUST B",
-    "name": "Bain",
-    "rarity": "1",
-    "version": "A",
-    "era": "ME= (NANEUN)",
-    "color": "C2CACB",
-    "image": "https://cdn.discordapp.com/attachments/1053528693064081549/1108238192215339009/Untitled483_20230516233319.png"
-  },
-
-  "JBJM1A": {
-    "group": "JUST B",
-    "name": "JM",
-    "rarity": "1",
-    "version": "A",
-    "era": "ME= (NANEUN)",
-    "color": "C2CACB",
-    "image": "https://cdn.discordapp.com/attachments/1053528693064081549/1108238348776132660/Untitled483_20230516233556.png"
-  },
-
-  "JBDY1A": {
-    "group": "JUST B",
-    "name": "DY",
-    "rarity": "1",
-    "version": "A",
-    "era": "ME= (NANEUN)",
-    "color": "C2CACB",
-    "image": "https://cdn.discordapp.com/attachments/1053528693064081549/1108238507228545074/Untitled483_20230516233507.png"
-  },
-
-  "JBSW1A": {
-    "group": "JUST B",
-    "name": "Sangwoo",
-    "rarity": "1",
-    "version": "A",
-    "era": "ME= (NANEUN)",
-    "color": "C2CACB",
-    "image": "https://cdn.discordapp.com/attachments/1053528693064081549/1108238583569076325/Untitled483_20230516233542.png"
-  },
-
   "K1YJ1A": {
     "group": "Kep1er",
     "name": "Yujin",
@@ -456,7 +397,7 @@
     "rarity": "1",
     "version": "A",
     "era": "Up!",
-    "color": "F1A5C1",
+    "color": "F1A5C1 ",
     "image": "https://cdn.discordapp.com/attachments/1031797593413525515/1032970369105141830/cofi_1s_kep1_up_20221021171908.png"
   },
 
